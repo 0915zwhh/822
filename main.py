@@ -8,7 +8,7 @@ import random
 
 today = datetime.now()
 start_date = '2021-12-18'
-city = '长沙'
+city = '湖南，长沙'
 birthday = '9-15'
 
 app_id = 'wx7dfaf23bf50f856a'
